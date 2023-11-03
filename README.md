@@ -1,6 +1,6 @@
 # Awesome Alternative Front-Ends [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-List of alternative open source front-ends for popular internet platforms.
+> A curated list of Open Source alternative front-ends for popular websites.
 
 ## Summary
 - [YouTube](#youtube)
@@ -12,10 +12,10 @@ List of alternative open source front-ends for popular internet platforms.
 
 - #### Web
 
-  - [**Invidious**](https://invidious.io/): Invidious is an open source alternative front-end to YouTube. [Source Code](https://github.com/iv-org/invidious)
-  - [**Piped**](https://piped.video): An alternative privacy-friendly YouTube frontend which is efficient by design. [Source Code](https://github.com/TeamPiped/Piped)
-  - [**Poketube**](https://poketube.fun): Be Anonymous watching epic videos, searching thingys on the interwebs and listening to music on poketube - the free yt front end thats focused on ur privacy!! [Source Code](https://codeberg.org/Ashley/poketube/)
-  - [**CloudTube**](https://tube.cadence.moe/): An alternative front-end for YouTube. [Source Code](https://sr.ht/~cadence/tube/)
+  - [**Invidious**](https://invidious.io/) - Invidious is an open source alternative front-end to YouTube. [Source Code](https://github.com/iv-org/invidious)
+  - [**Piped**](https://piped.video) - An alternative privacy-friendly YouTube frontend which is efficient by design. [Source Code](https://github.com/TeamPiped/Piped)
+  - [**Poketube**](https://poketube.fun) - Be Anonymous watching epic videos, searching thingys on the interwebs and listening to music on poketube - the free yt front end thats focused on ur privacy!! [Source Code](https://codeberg.org/Ashley/poketube/)
+  - [**CloudTube**](https://tube.cadence.moe) - An alternative front-end for YouTube. [Source Code](https://sr.ht/~cadence/tube/)
 
 - #### Smartphone App
 
@@ -30,3 +30,7 @@ List of alternative open source front-ends for popular internet platforms.
 - #### Web
 - #### Smartphone App
 - #### Computer App
+
+## Contribute
+
+Contributions welcome! Read the [contribution guidelines](contributing.md) first.
