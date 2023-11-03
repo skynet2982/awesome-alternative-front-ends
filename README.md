@@ -4,11 +4,13 @@
 
 ## Summary
 - [Apple Music](#apple-music)
-- [YouTube](#youtube)
+- [Lemmy](#lemmy)
+- [Mastodon](#mastodon)
 - [Reddit](#reddit)
 - [TikTok](#tiktok)
 - [Twitch](#twitch)
 - [Twitter](#twitter)
+- [YouTube](#youtube)
 
 ## List
 
@@ -16,22 +18,29 @@
 
 - #### Computer App
   - [**Cider**](https://cider.sh/)[Windows][MacOS][Linux] - A new cross-platform Apple Music experience based on Electron and Vue.js written from scratch with performance in mind. [Source Code](https://github.com/ciderapp/Cider)
-
-### YouTube
+ 
+### Lemmy
 
 - #### Web App
-  - [**Invidious**](https://invidious.io) - Invidious is an open source alternative front-end to YouTube. [Source Code](https://github.com/iv-org/invidious)
-  - [**Piped**](https://piped.video) - An alternative privacy-friendly YouTube frontend which is efficient by design. [Source Code](https://github.com/TeamPiped/Piped)
-  - [**Poketube**](https://poketube.fun) - Be Anonymous watching epic videos, searching thingys on the interwebs and listening to music on poketube - the free yt front end thats focused on ur privacy!! [Source Code](https://codeberg.org/Ashley/poketube)
-  - [**CloudTube**](https://tube.cadence.moe) - An alternative front-end for YouTube. [Source Code](https://sr.ht/~cadence/tube)
-
+  - [**Photon**](https://phtn.app) - A sleek client for Lemmy with powerful mod and admin tools. The only alternative client with feature parity to the official client. [Source Code](https://github.com/Xyphyn/photon)
+  
 - #### Smartphone App
-  - [**New Pipe**](https://newpipe.net)[Android] - A libre lightweight streaming front-end for Android. [Source Code](https://github.com/TeamNewPipe/NewPipe)
-  - [**LibreTube**](https://libretube.dev)[Android] - An alternative frontend for YouTube, for Android. [Source Code](https://github.com/libre-tube/LibreTube)
+  - [**Voyager**](https://f-droid.org/fr/packages/app.vger.voyager) - Voyager is a free and open source client for Lemmy. Voyager respects your privacy: no trackers and no advertisements. [Source Code](https://github.com/aeharding/voyager)
+  - [**Jerboa**](https://f-droid.org/fr/packages/com.jerboa) - A native android app for Lemmy. [Source Code](https://github.com/dessalines/jerboa)
+  - [**Eternity**](https://f-droid.org/packages/eu.toldi.infinityforlemmy) - A Lemmy client for Android written in Java. It's a fork of the Infinity for Reddit project, currenty in early development. [Source Code](https://codeberg.org/Bazsalanszky/Eternity)
+
+### Mastodon
+
+- #### Web App
+  - [**Elk**](https://elk.zone) - A nimble Mastodon web client. [Source Code](https://github.com/elk-zone/elk)
+  
+- #### Smartphone App
+  - [**Moshidon**](https://lucasggamerm.github.io/moshidon) - Better modification of the official Mastodon for Android app. [Source Code](https://github.com/LucasGGamerM/moshidon)
+  - [**Megalodon**](https://sk22.github.io/megalodon) - Pink modification of the official Mastodon for Android app. [Source Code](https://github.com/sk22/megalodon)
+  - [**Tusky**](https://tusky.app/) - An Android client for the microblogging server Mastodon. [Source Code](https://github.com/tuskyapp/Tusky)
 
 - #### Computer App
-  - [**FreeTube**](https://freetubeapp.io)[Windows][MacOS][Linux] - An Open Source YouTube app for privacy. [Source Code](https://github.com/FreeTubeApp/FreeTube)
-  - [**Youtube-viewer**](https://trizenx.blogspot.com/2012/03/gtk-youtube-viewer.html)[MacOS][Linux] - Lightweight YouTube client for Linux. [Source Code](https://github.com/trizen/youtube-viewer)
+  - [**Sengi**](https://nicolasconstant.github.io/sengi)[Windows][MacOS][Linux] - Mastodon & Pleroma Multi-account Desktop Client. [Source Code](https://github.com/NicolasConstant/sengi)
  
 ### Reddit
 
@@ -39,6 +48,7 @@
   - [**Eddrit**](https://eddrit.com) - Alternative Reddit frontend. [Source Code](https://github.com/corenting/eddrit)
 
 - #### Smartphone App
+  - [**Geddit**](https://kaangiray26.github.io/geddit-app) - Geddit is an open-source, Reddit client for Android without using their API. [Source Code](https://github.com/kaangiray26/geddit-app)
   - [**Stealth**](https://f-droid.org/packages/com.cosmos.unreddit) - Stealth is an account-free, privacy-oriented, and feature-rich Reddit client. [Source Code](https://gitlab.com/cosmosapps/stealth)
   - [**Infinity**](https://play.google.com/store/apps/details?id=ml.docilealligator.infinityforreddit) - A Reddit client for Android. [Source Code](https://github.com/Docile-Alligator/Infinity-For-Reddit)
  
@@ -68,7 +78,21 @@
 - #### Smartphone App
   - [**Squawker**](https://f-droid.org/packages/org.ca.squawker)[Android] -  An open-source anonymous Twitter/X client. [Source Code](https://github.com/j-fbriere/squawker)
  
+### YouTube
 
+- #### Web App
+  - [**Invidious**](https://invidious.io) - Invidious is an open source alternative front-end to YouTube. [Source Code](https://github.com/iv-org/invidious)
+  - [**Piped**](https://piped.video) - An alternative privacy-friendly YouTube frontend which is efficient by design. [Source Code](https://github.com/TeamPiped/Piped)
+  - [**Poketube**](https://poketube.fun) - Be Anonymous watching epic videos, searching thingys on the interwebs and listening to music on poketube - the free yt front end thats focused on ur privacy!! [Source Code](https://codeberg.org/Ashley/poketube)
+  - [**CloudTube**](https://tube.cadence.moe) - An alternative front-end for YouTube. [Source Code](https://sr.ht/~cadence/tube)
+
+- #### Smartphone App
+  - [**New Pipe**](https://newpipe.net)[Android] - A libre lightweight streaming front-end for Android. [Source Code](https://github.com/TeamNewPipe/NewPipe)
+  - [**LibreTube**](https://libretube.dev)[Android] - An alternative frontend for YouTube, for Android. [Source Code](https://github.com/libre-tube/LibreTube)
+
+- #### Computer App
+  - [**FreeTube**](https://freetubeapp.io)[Windows][MacOS][Linux] - An Open Source YouTube app for privacy. [Source Code](https://github.com/FreeTubeApp/FreeTube)
+  - [**Youtube-viewer**](https://trizenx.blogspot.com/2012/03/gtk-youtube-viewer.html)[MacOS][Linux] - Lightweight YouTube client for Linux. [Source Code](https://github.com/trizen/youtube-viewer)
 
 
 
