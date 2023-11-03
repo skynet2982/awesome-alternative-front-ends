@@ -1,27 +1,32 @@
-# awesome-alternative-front-ends
+# Awesome Alternative Front-Ends [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-Overview of alternative open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.)
+List of alternative open source front-ends for popular internet platforms.
 
 ## Summary
 - [YouTube](#youtube)
-
-
-
+- [Twitter](#twitter)
 
 ## List
 
 ### YouTube
 
-#### Web
+- #### Web
 
-- <img src="images/firefox-plain.svg" width="20" height="20"/> [Invidious](https://github.com/iv-org/invidious): Invidious is an open source alternative front-end to YouTube.
+  - [**Invidious**](https://invidious.io/): Invidious is an open source alternative front-end to YouTube. [Source Code](https://github.com/iv-org/invidious)
+  - [**Piped**](https://piped.video): An alternative privacy-friendly YouTube frontend which is efficient by design. [Source Code](https://github.com/TeamPiped/Piped)
+  - [**Poketube**](https://poketube.fun): Be Anonymous watching epic videos, searching thingys on the interwebs and listening to music on poketube - the free yt front end thats focused on ur privacy!! [Source Code](https://codeberg.org/Ashley/poketube/)
+  - [**CloudTube**](https://tube.cadence.moe/): An alternative front-end for YouTube. [Source Code](https://sr.ht/~cadence/tube/)
 
-#### Smartphone App
+- #### Smartphone App
 
-- <img src="images/android-original.svg" width="20" height="20"/> [New Pipe](https://github.com/TeamNewPipe/NewPipe): A libre lightweight streaming front-end for Android.
+  - [**New Pipe**](https://newpipe.net/)[Android]: A libre lightweight streaming front-end for Android. [Source Code](https://github.com/TeamNewPipe/NewPipe)
 
+- #### Computer App
 
-#### Computer App
+  - [**FreeTube**](https://freetubeapp.io/)[Windows][MacOS][Linux]: An Open Source YouTube app for privacy. [Source Code](https://github.com/FreeTubeApp/FreeTube)
 
-- <img src="images/linux-original.svg" width="20" height="20"/><img src="images/apple-original.svg" width="20" height="20"/><img src="images/windows8-original.svg" width="20" height="20"/> [FreeTube](https://github.com/FreeTubeApp/FreeTube): An Open Source YouTube app for privacy.
+### Twitter
 
+- #### Web
+- #### Smartphone App
+- #### Computer App
