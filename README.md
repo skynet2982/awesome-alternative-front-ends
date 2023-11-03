@@ -20,18 +20,23 @@
 - #### Smartphone App
 
   - [**New Pipe**](https://newpipe.net/)[Android] - A libre lightweight streaming front-end for Android. [Source Code](https://github.com/TeamNewPipe/NewPipe)
-  - [**LibreTube**](https://libretube.dev/)[Android] -  An alternative frontend for YouTube, for Android. [Source Code](https://github.com/libre-tube/LibreTube)
+  - [**LibreTube**](https://libretube.dev/)[Android] - An alternative frontend for YouTube, for Android. [Source Code](https://github.com/libre-tube/LibreTube)
 
 - #### Computer App
 
   - [**FreeTube**](https://freetubeapp.io/)[Windows][MacOS][Linux] - An Open Source YouTube app for privacy. [Source Code](https://github.com/FreeTubeApp/FreeTube)
-  - [**Youtube-viewer**](https://trizenx.blogspot.com/2012/03/gtk-youtube-viewer.html)[MacOS][Linux]: Lightweight YouTube client for Linux. [Source Code](https://github.com/trizen/youtube-viewer)
+  - [**Youtube-viewer**](https://trizenx.blogspot.com/2012/03/gtk-youtube-viewer.html)[MacOS][Linux] - Lightweight YouTube client for Linux. [Source Code](https://github.com/trizen/youtube-viewer)
 
 ### Twitter
 
 - #### Web
+  - [**Nitter**](https://nitter.net/) - Alternative Twitter front-end. [Source Code](https://github.com/zedeus/nitter)
+    
 - #### Smartphone App
+  - [**Squawker**](https://f-droid.org/packages/org.ca.squawker/)[Android] -  An open-source anonymous Twitter/X client. [Source Code](https://github.com/j-fbriere/squawker)
+  
 - #### Computer App
+
 
 ## Contribute
 
