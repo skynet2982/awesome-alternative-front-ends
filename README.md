@@ -90,6 +90,7 @@
 - #### Smartphone App
   - [**New Pipe**](https://newpipe.net)[Android] - A libre lightweight streaming front-end for Android. [Source Code](https://github.com/TeamNewPipe/NewPipe)
   - [**LibreTube**](https://libretube.dev)[Android] - An alternative frontend for YouTube, for Android. [Source Code](https://github.com/libre-tube/LibreTube)
+  - [**Yattee**](https://github.com/yattee/yattee)[iOS] - Privacy oriented video player for iOS, tvOS and macOS. [Source Code](https://github.com/yattee/yattee)
 
 - #### Computer App
   - [**FreeTube**](https://freetubeapp.io)[Windows][MacOS][Linux] - An Open Source YouTube app for privacy. [Source Code](https://github.com/FreeTubeApp/FreeTube)
