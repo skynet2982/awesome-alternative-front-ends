@@ -61,6 +61,7 @@
 
 - #### Web App
   - [**Safe Twitch**](https://safetwitch.drgns.space) - A privacy respecting frontend for twitch.tv. [Source Code](https://codeberg.org/SafeTwitch/safetwitch)
+  - [**Twineo**](https://cloudyy.exozy.me/projects/twineo) - A privacy focused Twitch front-end. [Source Code](https://codeberg.org/CloudyyUw/twineo)
 
 - #### Smartphone App
   - [**Xtra**](https://f-droid.org/packages/com.github.andreyasadchy.xtra)[Android] - Xtra for Twitch is a Twitch client focused on providing the best viewing and chatting experience on mobile devices. [Source Code](https://github.com/crackededed/Xtra)
