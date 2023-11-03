@@ -21,6 +21,11 @@
 - #### Computer App
   - [**Cider**](https://cider.sh/)[Windows][MacOS][Linux] - A new cross-platform Apple Music experience based on Electron and Vue.js written from scratch with performance in mind. [Source Code](https://github.com/ciderapp/Cider)
  
+### Goodreads
+
+- #### Web App
+  - [**BiblioReads**](https://biblioreads.eu.org) - An Alternative Private Goodreads Front-End. [Source Code](https://github.com/nesaku/BiblioReads) 
+ 
 ### Imgur
 
 - #### Web App
