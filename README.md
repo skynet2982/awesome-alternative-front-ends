@@ -7,6 +7,7 @@
 - [Imgur](#imgur)
 - [Lemmy](#lemmy)
 - [Mastodon](#mastodon)
+- [Medium](#medium)
 - [Reddit](#reddit)
 - [TikTok](#tiktok)
 - [Twitch](#twitch)
@@ -47,6 +48,11 @@
 
 - #### Computer App
   - [**Sengi**](https://nicolasconstant.github.io/sengi)[Windows][MacOS][Linux] - Mastodon & Pleroma Multi-account Desktop Client. [Source Code](https://github.com/NicolasConstant/sengi)
+ 
+### Medium
+
+- #### Web App
+  - [**Scribe**](https://scribe.rip) - An alternative frontend to Medium. [Source Code](https://sr.ht/~edwardloveall/Scribe/)
  
 ### Reddit
 
