@@ -4,6 +4,7 @@
 
 ## Summary
 - [Apple Music](#apple-music)
+- [Imgur](#imgur)
 - [Lemmy](#lemmy)
 - [Mastodon](#mastodon)
 - [Reddit](#reddit)
@@ -18,6 +19,11 @@
 
 - #### Computer App
   - [**Cider**](https://cider.sh/)[Windows][MacOS][Linux] - A new cross-platform Apple Music experience based on Electron and Vue.js written from scratch with performance in mind. [Source Code](https://github.com/ciderapp/Cider)
+ 
+### Imgur
+
+- #### Web App
+  - [**Rimgo**](https://rimgo.codeberg.page) - An alternative frontend for Imgur. [Source Code](https://codeberg.org/rimgo/rimgo)
  
 ### Lemmy
 
