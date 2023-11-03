@@ -25,9 +25,9 @@
   - [**Photon**](https://phtn.app) - A sleek client for Lemmy with powerful mod and admin tools. The only alternative client with feature parity to the official client. [Source Code](https://github.com/Xyphyn/photon)
   
 - #### Smartphone App
-  - [**Voyager**](https://f-droid.org/fr/packages/app.vger.voyager) - Voyager is a free and open source client for Lemmy. Voyager respects your privacy: no trackers and no advertisements. [Source Code](https://github.com/aeharding/voyager)
-  - [**Jerboa**](https://f-droid.org/fr/packages/com.jerboa) - A native android app for Lemmy. [Source Code](https://github.com/dessalines/jerboa)
-  - [**Eternity**](https://f-droid.org/packages/eu.toldi.infinityforlemmy) - A Lemmy client for Android written in Java. It's a fork of the Infinity for Reddit project, currenty in early development. [Source Code](https://codeberg.org/Bazsalanszky/Eternity)
+  - [**Voyager**](https://f-droid.org/fr/packages/app.vger.voyager)[Android] - Voyager is a free and open source client for Lemmy. Voyager respects your privacy: no trackers and no advertisements. [Source Code](https://github.com/aeharding/voyager)
+  - [**Jerboa**](https://f-droid.org/fr/packages/com.jerboa)[Android] - A native android app for Lemmy. [Source Code](https://github.com/dessalines/jerboa)
+  - [**Eternity**](https://f-droid.org/packages/eu.toldi.infinityforlemmy)[Android] - A Lemmy client for Android written in Java. It's a fork of the Infinity for Reddit project, currenty in early development. [Source Code](https://codeberg.org/Bazsalanszky/Eternity)
 
 ### Mastodon
 
@@ -35,9 +35,9 @@
   - [**Elk**](https://elk.zone) - A nimble Mastodon web client. [Source Code](https://github.com/elk-zone/elk)
   
 - #### Smartphone App
-  - [**Moshidon**](https://lucasggamerm.github.io/moshidon) - Better modification of the official Mastodon for Android app. [Source Code](https://github.com/LucasGGamerM/moshidon)
-  - [**Megalodon**](https://sk22.github.io/megalodon) - Pink modification of the official Mastodon for Android app. [Source Code](https://github.com/sk22/megalodon)
-  - [**Tusky**](https://tusky.app/) - An Android client for the microblogging server Mastodon. [Source Code](https://github.com/tuskyapp/Tusky)
+  - [**Moshidon**](https://lucasggamerm.github.io/moshidon)[Android] - Better modification of the official Mastodon for Android app. [Source Code](https://github.com/LucasGGamerM/moshidon)
+  - [**Megalodon**](https://sk22.github.io/megalodon)[Android] - Pink modification of the official Mastodon for Android app. [Source Code](https://github.com/sk22/megalodon)
+  - [**Tusky**](https://tusky.app/)[Android] - An Android client for the microblogging server Mastodon. [Source Code](https://github.com/tuskyapp/Tusky)
 
 - #### Computer App
   - [**Sengi**](https://nicolasconstant.github.io/sengi)[Windows][MacOS][Linux] - Mastodon & Pleroma Multi-account Desktop Client. [Source Code](https://github.com/NicolasConstant/sengi)
@@ -48,9 +48,9 @@
   - [**Eddrit**](https://eddrit.com) - Alternative Reddit frontend. [Source Code](https://github.com/corenting/eddrit)
 
 - #### Smartphone App
-  - [**Geddit**](https://kaangiray26.github.io/geddit-app) - Geddit is an open-source, Reddit client for Android without using their API. [Source Code](https://github.com/kaangiray26/geddit-app)
-  - [**Stealth**](https://f-droid.org/packages/com.cosmos.unreddit) - Stealth is an account-free, privacy-oriented, and feature-rich Reddit client. [Source Code](https://gitlab.com/cosmosapps/stealth)
-  - [**Infinity**](https://play.google.com/store/apps/details?id=ml.docilealligator.infinityforreddit) - A Reddit client for Android. [Source Code](https://github.com/Docile-Alligator/Infinity-For-Reddit)
+  - [**Geddit**](https://kaangiray26.github.io/geddit-app)[Android] - Geddit is an open-source, Reddit client for Android without using their API. [Source Code](https://github.com/kaangiray26/geddit-app)
+  - [**Stealth**](https://f-droid.org/packages/com.cosmos.unreddit)[Android] - Stealth is an account-free, privacy-oriented, and feature-rich Reddit client. [Source Code](https://gitlab.com/cosmosapps/stealth)
+  - [**Infinity**](https://play.google.com/store/apps/details?id=ml.docilealligator.infinityforreddit)[Android] - A Reddit client for Android. [Source Code](https://github.com/Docile-Alligator/Infinity-For-Reddit)
  
 ### TikTok
 
@@ -63,9 +63,9 @@
   - [**Safe Twitch**](https://safetwitch.drgns.space) - A privacy respecting frontend for twitch.tv. [Source Code](https://codeberg.org/SafeTwitch/safetwitch)
 
 - #### Smartphone App
-  - [**Xtra**](https://f-droid.org/packages/com.github.andreyasadchy.xtra) - Xtra for Twitch is a Twitch client focused on providing the best viewing and chatting experience on mobile devices. [Source Code](https://github.com/crackededed/Xtra)
-  - [**Frosty**](https://www.frostyapp.io) - A mobile Twitch client for iOS and Android with 7TV, BetterTTV (BTTV), and FrankerFaceZ (FFZ) support. Built with Flutter. [Source Code](https://github.com/tommyxchow/frosty)
-  - [**Twire**](https://f-droid.org/en/packages/com.perflyst.twire) - Twire is an alternative and open source Twitch client for Android. [Source Code](https://github.com/twireapp/Twire)
+  - [**Xtra**](https://f-droid.org/packages/com.github.andreyasadchy.xtra)[Android] - Xtra for Twitch is a Twitch client focused on providing the best viewing and chatting experience on mobile devices. [Source Code](https://github.com/crackededed/Xtra)
+  - [**Frosty**](https://www.frostyapp.io)[Android] - A mobile Twitch client for iOS and Android with 7TV, BetterTTV (BTTV), and FrankerFaceZ (FFZ) support. Built with Flutter. [Source Code](https://github.com/tommyxchow/frosty)
+  - [**Twire**](https://f-droid.org/en/packages/com.perflyst.twire)[Android] - Twire is an alternative and open source Twitch client for Android. [Source Code](https://github.com/twireapp/Twire)
 
 - #### Computer App
   - [**Streamlink Twitch GUI**](https://streamlink.github.io/streamlink-twitch-gui)[Windows][MacOS][Linux] - A multi platform Twitch.tv browser for Streamlink. [Source Code](https://github.com/streamlink/streamlink-twitch-gui)
@@ -93,9 +93,6 @@
 - #### Computer App
   - [**FreeTube**](https://freetubeapp.io)[Windows][MacOS][Linux] - An Open Source YouTube app for privacy. [Source Code](https://github.com/FreeTubeApp/FreeTube)
   - [**Youtube-viewer**](https://trizenx.blogspot.com/2012/03/gtk-youtube-viewer.html)[MacOS][Linux] - Lightweight YouTube client for Linux. [Source Code](https://github.com/trizen/youtube-viewer)
-
-
-
 
 ## Contribute
 
