@@ -4,6 +4,7 @@
 
 ## Summary
 - [YouTube](#youtube)
+- [Reddit](#reddit)
 - [Twitter](#twitter)
 
 ## List
@@ -26,6 +27,20 @@
 
   - [**FreeTube**](https://freetubeapp.io/)[Windows][MacOS][Linux] - An Open Source YouTube app for privacy. [Source Code](https://github.com/FreeTubeApp/FreeTube)
   - [**Youtube-viewer**](https://trizenx.blogspot.com/2012/03/gtk-youtube-viewer.html)[MacOS][Linux] - Lightweight YouTube client for Linux. [Source Code](https://github.com/trizen/youtube-viewer)
+ 
+### Reddit
+
+- #### Web
+  
+  - [**Teddit**](https://teddit.net/) - Alternative Reddit front-end focused on privacy. [Source Code](https://codeberg.org/teddit/teddit)
+
+- #### Smartphone App
+  - [**Stealth**](https://f-droid.org/packages/com.cosmos.unreddit/) - Stealth is an account-free, privacy-oriented, and feature-rich Reddit client. [Source Code](https://gitlab.com/cosmosapps/stealth)
+  - [**Infinity**](https://play.google.com/store/apps/details?id=ml.docilealligator.infinityforreddit) - A Reddit client for Android. [Source Code](https://github.com/Docile-Alligator/Infinity-For-Reddit)
+
+- #### Computer App
+
+
 
 ### Twitter
 
