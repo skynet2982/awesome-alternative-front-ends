@@ -5,6 +5,7 @@
 ## Summary
 - [Apple Music](#apple-music)
 - [GoodReads](#goodreads)
+- [Google](#google)
 - [Imgur](#imgur)
 - [Instructables](#instructables)
 - [Lemmy](#lemmy)
@@ -28,7 +29,12 @@
 ### GoodReads
 
 - #### Web App
-  - [**BiblioReads**](https://biblioreads.eu.org) - An Alternative Private Goodreads Front-End. [Source Code](https://github.com/nesaku/BiblioReads) 
+  - [**BiblioReads**](https://biblioreads.eu.org) - An Alternative Private Goodreads Front-End. [Source Code](https://github.com/nesaku/BiblioReads)
+ 
+### Google
+
+- #### Web App
+  - [**Araa Search**](https://tailsx.extravi.dev/) - A privacy-respecting, ad-free, self-hosted Google metasearch engine with strong security that offers full API support and utilizes Qwant for images, and DuckDuckGo for auto-complete. [Source Code](https://github.com/Extravi/araa-search)
  
 ### Imgur
 
