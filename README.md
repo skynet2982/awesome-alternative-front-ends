@@ -6,6 +6,7 @@
 - [Apple Music](#apple-music)
 - [GoodReads](#goodreads)
 - [Imgur](#imgur)
+- [Instructables](#instructables)
 - [Lemmy](#lemmy)
 - [Mastodon](#mastodon)
 - [Medium](#medium)
@@ -31,6 +32,11 @@
 
 - #### Web App
   - [**Rimgo**](https://rimgo.codeberg.page) - An alternative frontend for Imgur. [Source Code](https://codeberg.org/rimgo/rimgo)
+ 
+### Instructables
+
+- #### Web App
+  - [**Indestructables**](https://indestructables.codeberg.page/) - An open source alternative front-end to Instructables. [Source Code](https://codeberg.org/indestructables/indestructables)
  
 ### Lemmy
 
