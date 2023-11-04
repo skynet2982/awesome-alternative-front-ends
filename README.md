@@ -125,6 +125,7 @@
 
 - #### Web App
   - [**Musicale**](https://musicale.tk) - Musicale, music with style. [Source Code](https://github.com/Bellisario/musicale)
+  - [**Beatbump**](https://beatbump.io) - Alternative YouTube Music frontend built with Svelte/SvelteKit. [Source Code](https://github.com/snuffyDev/Beatbump)
 
 ## Contribute
 
