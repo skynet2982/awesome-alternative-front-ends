@@ -15,6 +15,7 @@
 - [Twitch](#twitch)
 - [Twitter](#twitter)
 - [YouTube](#youtube)
+- [Youtube Music](#youtube-music)
 
 ## List
 
@@ -119,6 +120,11 @@
 - #### Computer App
   - [**FreeTube**](https://freetubeapp.io)[Windows][MacOS][Linux] - An Open Source YouTube app for privacy. [Source Code](https://github.com/FreeTubeApp/FreeTube)
   - [**Youtube-viewer**](https://trizenx.blogspot.com/2012/03/gtk-youtube-viewer.html)[MacOS][Linux] - Lightweight YouTube client for Linux. [Source Code](https://github.com/trizen/youtube-viewer)
+
+### YouTube Music
+
+- #### Web App
+  - [**Musicale**](https://musicale.tk) - Musicale, music with style. [Source Code](https://github.com/Bellisario/musicale)
 
 ## Contribute
 
