@@ -11,6 +11,7 @@
 - [Mastodon](#mastodon)
 - [Medium](#medium)
 - [Reddit](#reddit)
+- [StackOverflow](#stackOverflow)
 - [TikTok](#tiktok)
 - [Twitch](#twitch)
 - [Twitter](#twitter)
@@ -76,6 +77,11 @@
   - [**Geddit**](https://kaangiray26.github.io/geddit-app)[Android] - Geddit is an open-source, Reddit client for Android without using their API. [Source Code](https://github.com/kaangiray26/geddit-app)
   - [**Stealth**](https://f-droid.org/packages/com.cosmos.unreddit)[Android] - Stealth is an account-free, privacy-oriented, and feature-rich Reddit client. [Source Code](https://gitlab.com/cosmosapps/stealth)
   - [**Infinity**](https://play.google.com/store/apps/details?id=ml.docilealligator.infinityforreddit)[Android] - A Reddit client for Android. [Source Code](https://github.com/Docile-Alligator/Infinity-For-Reddit)
+ 
+### StackOverflow
+
+- #### Web App
+  - [**AnonymousOverflow**](https://code.whatever.social) - View StackOverflow in privacy and without the clutter. [Source Code](https://github.com/httpjamesm/AnonymousOverflow)
  
 ### TikTok
 
