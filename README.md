@@ -29,7 +29,7 @@
 ### GoodReads
 
 - #### Web App
-  - [**BiblioReads**](https://biblioreads.eu.org) - An Alternative Private Goodreads Front-End. [Source Code](https://github.com/nesaku/BiblioReads)
+  - [**BiblioReads**](https://biblioreads.eu.org) - An Alternative Private Goodreads Front-End. [Source Code](hhttps://codeberg.org/nesaku/BiblioReads)
  
 ### Google
 
