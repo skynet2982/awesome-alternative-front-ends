@@ -1,6 +1,14 @@
+<div align="center">
+
 # Awesome Alternative Front-Ends [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of Open Source alternative front-ends for popular websites.
+A curated list of Open Source alternative front-ends for popular websites.
+
+[Codeberg](https://codeberg.org/skynet2982/awesome-alternative-front-ends) | [GitHub](https://github.com/skynet2982/awesome-alternative-front-ends)
+
+</div>
+
+---
 
 ## Summary
 - [Apple Music](#apple-music)
@@ -18,6 +26,8 @@
 - [Twitter](#twitter)
 - [YouTube](#youtube)
 - [Youtube Music](#youtube-music)
+
+---
 
 ## List
 
@@ -138,6 +148,8 @@
 - #### Web App
   - [**Musicale**](https://musicale.tk) - Musicale, music with style. [Source Code](https://github.com/Bellisario/musicale)
   - [**Beatbump**](https://beatbump.io) - Alternative YouTube Music frontend built with Svelte/SvelteKit. [Source Code](https://github.com/snuffyDev/Beatbump)
+
+---
 
 ## Contribute
 
