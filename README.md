@@ -88,6 +88,7 @@ A curated list of Open Source alternative front-ends for popular websites.
 
 - #### Web App
   - [**Eddrit**](https://eddrit.com) - Alternative Reddit frontend. [Source Code](https://github.com/corenting/eddrit)
+  - [**Photon Reddit**](https://photon-reddit.com) - Photon Reddit is a clean and modern reddit desktop client, with some cool features. [Source Code](https://github.com/ArthurHeitmann/photon-reddit)
 
 - #### Smartphone App
   - [**Geddit**](https://kaangiray26.github.io/geddit-app)[Android] - Geddit is an open-source, Reddit client for Android without using their API. [Source Code](https://github.com/kaangiray26/geddit-app)
