@@ -141,6 +141,7 @@ A curated list of Open Source alternative front-ends for popular websites.
   - [**Piped**](https://piped.video) - An alternative privacy-friendly YouTube frontend which is efficient by design. [Source Code](https://github.com/TeamPiped/Piped)
   - [**Poketube**](https://poketube.fun) - Be Anonymous watching epic videos, searching thingys on the interwebs and listening to music on poketube - the free yt front end thats focused on ur privacy!! [Source Code](https://codeberg.org/Ashley/poketube)
   - [**CloudTube**](https://tube.cadence.moe) - An alternative front-end for YouTube. [Source Code](https://sr.ht/~cadence/tube)
+  - [**yt-2005-watch**](http://yt2005.lime360.serv00.net/) - An alternative frontend for YouTube that uses it's 2005 layout. [Source Code](https://codeberg.org/lime360/yt-2005-watch)
 
 - #### Smartphone App
   - [**New Pipe**](https://newpipe.net)[Android] - A libre lightweight streaming front-end for Android. [Source Code](https://github.com/TeamNewPipe/NewPipe)
