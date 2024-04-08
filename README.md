@@ -159,7 +159,7 @@ A curated list of Open Source alternative front-ends for popular websites.
   - [**Musicale**](https://musicale.tk) - Musicale, music with style. [Source Code](https://github.com/Bellisario/musicale)
   - [**Beatbump**](https://beatbump.io) - Alternative YouTube Music frontend built with Svelte/SvelteKit. [Source Code](https://github.com/snuffyDev/Beatbump)
 - #### Smartphone App
-  - [**ViMusic**](https://vimusic-apk.com/) - A YouTube Music frontend with downloads that doesn't require an account
+  - [**ViMusic**](https://https://github.com/vfsfitvnm/ViMusic/releases) - A YouTube Music frontend with downloads that doesn't require an account
 ---
 
 ## Contribute
