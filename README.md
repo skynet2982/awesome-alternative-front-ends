@@ -129,9 +129,6 @@ A curated list of Open Source alternative front-ends for popular websites.
 
 ### Twitter
 
-- #### Web App
-  - [**Nitter**](https://nitter.net) - Alternative Twitter front-end. [Source Code](https://github.com/zedeus/nitter)
-    
 - #### Smartphone App
   - [**Squawker**](https://f-droid.org/packages/org.ca.squawker)[Android] -  An open-source anonymous Twitter/X client. [Source Code](https://github.com/j-fbriere/squawker)
  
