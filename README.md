@@ -72,6 +72,7 @@ A curated list of Open Source alternative front-ends for popular websites.
 
 - #### Web App
   - [**Elk**](https://elk.zone) - A nimble Mastodon web client. [Source Code](https://github.com/elk-zone/elk)
+  - [**Phanpy**](https://phanpy.social) - A minimalistic opinionated Mastodon web client. [Source Code](https://github.com/cheeaun/phanpy)
   
 - #### Smartphone App
   - [**Moshidon**](https://lucasggamerm.github.io/moshidon)[Android] - Better modification of the official Mastodon for Android app. [Source Code](https://github.com/LucasGGamerM/moshidon)
