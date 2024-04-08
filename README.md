@@ -46,7 +46,9 @@ A curated list of Open Source alternative front-ends for popular websites.
 
 - #### Web App
   - [**Araa Search**](https://tailsx.com/) - A privacy-respecting, ad-free, self-hosted Google metasearch engine with strong security that offers full API support and utilizes Qwant for images, and DuckDuckGo for auto-complete. [Source Code](https://github.com/Extravi/araa-search)
- 
+  - [**SearXNG**](https://docs.searxng.org) - SearXNG is a free internet metasearch engine which aggregates results from more than 70 search services. Users are neither tracked nor profiled. Additionally, SearXNG can be used over Tor for online anonymity. [Source Code](https://github.com/searxng/searxng)
+
+
 ### Imgur
 
 - #### Web App
