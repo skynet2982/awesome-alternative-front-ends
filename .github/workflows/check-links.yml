@@ -48,18 +48,12 @@ jobs:
 
             if [[ "$result" == "broken" ]]; then
               if [[ -z "$existing" ]]; then
+                body=$(printf '<!-- %s -->\nLe lien de **%s** semble hors service.\n\n- URL : %s\n- Code HTTP reçu : %s\n- Détecté le : %s\n- Run : %s\n\nSi c'"'"'est un faux positif (certains sites bloquent les requêtes automatisées), ferme cette issue manuellement.\n' \
+                  "$marker" "$name" "$url" "$status" "$now" "$RUN_URL")
                 gh issue create --repo "$REPO" \
                   --title "🔗 Lien cassé : $name" \
                   --label broken-link \
-                  --body "<!-- $marker -->
-Le lien de **$name** semble hors service.
-
-- URL : $url
-- Code HTTP reçu : $status
-- Détecté le : $now
-- Run : $RUN_URL
-
-Si c'est un faux positif (certains sites bloquent les requêtes automatisées), ferme cette issue manuellement."
+                  --body "$body"
                 echo "Issue créée pour $name"
               else
                 echo "Issue déjà ouverte (#$existing) pour $name, rien à faire"
