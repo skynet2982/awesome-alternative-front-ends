@@ -1,0 +1,75 @@
+name: Check tool links
+
+on:
+  schedule:
+    - cron: '0 * * * *'
+  workflow_dispatch:
+
+permissions:
+  issues: write
+  contents: read
+
+jobs:
+  check-links:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Run link checker
+        run: |
+          chmod +x ./check_url.sh
+          ./check_url.sh link_check_results.tsv || true
+
+      - name: Ensure "broken-link" label exists
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh label create broken-link --color B60205 \
+            --description "Lien d'un outil hors ligne" \
+            --force --repo "${{ github.repository }}"
+
+      - name: Open or close issues based on results
+        env:
+          GH_TOKEN: ${{ github.token }}
+          REPO: ${{ github.repository }}
+          RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+        run: |
+          gh issue list --repo "$REPO" --state open --label broken-link \
+            --limit 200 --json number,body > open_issues.json
+
+          while IFS=$'\t' read -r result status name url; do
+            [[ -z "$result" ]] && continue
+
+            slug=$(printf '%s' "$url" | sed -E 's~https?://~~; s~[^a-zA-Z0-9]+~-~g; s~^-+|-+$~~g' | tr '[:upper:]' '[:lower:]')
+            marker="broken-link-id:$slug"
+            existing=$(jq -r --arg m "$marker" '.[] | select(.body | contains($m)) | .number' open_issues.json | head -n1)
+            now=$(date -u +'%Y-%m-%d %H:%M UTC')
+
+            if [[ "$result" == "broken" ]]; then
+              if [[ -z "$existing" ]]; then
+                gh issue create --repo "$REPO" \
+                  --title "🔗 Lien cassé : $name" \
+                  --label broken-link \
+                  --body "<!-- $marker -->
+Le lien de **$name** semble hors service.
+
+- URL : $url
+- Code HTTP reçu : $status
+- Détecté le : $now
+- Run : $RUN_URL
+
+Si c'est un faux positif (certains sites bloquent les requêtes automatisées), ferme cette issue manuellement."
+                echo "Issue créée pour $name"
+              else
+                echo "Issue déjà ouverte (#$existing) pour $name, rien à faire"
+              fi
+            else
+              if [[ -n "$existing" ]]; then
+                gh issue comment "$existing" --repo "$REPO" \
+                  --body "Le lien de **$name** répond de nouveau (code $status) le $now. Fermeture automatique."
+                gh issue close "$existing" --repo "$REPO"
+                echo "Issue #$existing fermée pour $name"
+              fi
+            fi
+          done < link_check_results.tsv
