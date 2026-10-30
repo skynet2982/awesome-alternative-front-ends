@@ -109,6 +109,9 @@ A curated list of Open Source alternative front-ends for popular websites.
 - #### Smartphone App
   - [**AyuGram**](https://github.com/AyuGram/AyuGram4A)[Android] - Just an exteraGram based client with ToS breaking features in mind. [Source Code](https://github.com/AyuGram/AyuGram4A)
 
+- #### Computer App
+  - [**Guidegram**](https://github.com/guidegram/guidegram)[Windows][Linux][MacOS] - Open-source, multi-account Telegram desktop client featuring dedicated per-account proxy isolation, stealth vaults, and independent local message audit retention. [Source Code](https://github.com/guidegram/guidegram)
+
 ### TikTok
 
 - #### Web App
